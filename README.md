@@ -2,7 +2,7 @@
 
 # MRTK Editor Tools, Binding, and Theming
 
-MRTK Editor Tools is a [Unity engine](https://unity.com/) package for building user-friendly inspector UI with Unity's new UI Elements/UIToolkit system, through inline attributes in your Unity Monobehaviours. MRTK Data Binding and Theming is a new, experimental system for binding data, behaviors, and themes to your MRTK UI.
+MRTK Editor Tools is a [Unity engine](https://unity.com/) package for building user-friendly inspector UI with Unity's new UI Elements/UIToolkit system, through inline attributes in your Unity scripts. MRTK Data Binding and Theming is a new, experimental system for binding data, behaviors, and themes to your MRTK UI, with powerful editor UI and a simple developer workflow.
 
 # Getting started with Editor Tools
 
